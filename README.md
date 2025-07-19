@@ -62,4 +62,5 @@ df = pd.read_csv("ecommerce_customer_behavior_dataset.csv")
 # Preview data
 df.head()
 
+📬 Contact - Md. Rabbi Hasan | Data Scientist 📧arafatrabbi668@gmail.com | LinkedIn https://www.linkedin.com/in/md-rabbi-hasan-3249652b1
 Passionate about turning raw data into real-world insights through clear, compelling storytelling.
